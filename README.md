@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-📫 How to reach me: https://wladimir.github.io/
-
 <!--
 **wladimir/wladimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
